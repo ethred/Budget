@@ -31,6 +31,8 @@
 
 **Budget** This represents a budgeting application constructed using Rails, serving as the capstone project within the Rails module as a component of the Fullstack program at Microverse.org. 
 
+[Live Demo](https://budget-7fju.onrender.com/)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
